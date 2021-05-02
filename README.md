@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidcopter
 - 👀 I’m interested in  education and technology
-- 🌱 I’m currently learning k8s
+- 🌱 I’m currently learning k8s, flutter ...
 - 💞️ I’m looking to collaborate on dream team.
 - 📫 How to reach me phanuwat.davidccopter@gmail.com
 
