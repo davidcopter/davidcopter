@@ -1,4 +1,4 @@
-### Hi there, I'm Phanuwat (David) 👋
+### Hi there, I'm Phanuwat (Copter 🚁) 👋
 
 > *Turning education and technology into something magical* ✨
 
@@ -6,7 +6,6 @@ I'm a tech enthusiast passionate about the intersection of **Education** and **T
 
 🚀 **Currently diving deep into:** AI in Software Engineering  
 🤝 **Looking to collaborate on:** Building a "dream team" project that makes a difference  
-💡 **Fun fact:** The "copter" in my username comes from my love of drones and rotorcraft!
 
 ---
 
