@@ -30,20 +30,11 @@ I'm a tech enthusiast passionate about the intersection of **Education** and **T
 
 ---
 
-## 📊 GitHub Stats
-
-![davidcopter's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidcopter&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidcopter&layout=compact&theme=tokyonight)
-
----
-
 ## 📌 What I'm Working On
 
-<!-- Replace these with your actual pinned repos -->
-🔭 **AI Study Companion** - *An AI-powered tool for students*  
-🌱 **Kubernetes Learning Lab** - *My journey into container orchestration*  
-⚡ **TypeScript Utilities** - *Useful functions and helpers for daily dev work*
+🤖 **AI for Work** - *Building intelligent tools to boost workplace productivity*  
+🧩 **Microfrontend Architecture** - *Exploring scalable frontend composition with React and Module Federation*  
+🌱 **Kubernetes Learning Lab** - *My journey into container orchestration*
 
 ---
 
